@@ -1,6 +1,6 @@
 # LibManage
 
-#Progress
+## Progress
 1. Installed devise gem
 2. Created:
   **asterisks** User model
@@ -12,7 +12,7 @@
     - simple css layout
 
 
-  #TBD:
+## TBD:
     * Book controller/model
     * Shopping cart controller/model
     * Email System (?)
