@@ -3,7 +3,7 @@
 ## Progress
 1. Installed devise gem
 2. Created:
-  **asterisks** User model
+  **User model** 
     - database table (not finalized)
     - login directory
     - sign-up directory
